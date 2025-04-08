@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Wei
-I am a PhD student in the ORSTAT research group at KU Leuven.
+- 👋 Hi, I’m Wei. I am a PhD student in the ORSTAT research group at KU Leuven.
 - 👯 I’m looking forward to collaborate on econometric or statistical projects.
 - 📫 Reach out to me at: <a href="wei.miao@kuleuven.be">wei.miao@kuleuven.be</a>
 
