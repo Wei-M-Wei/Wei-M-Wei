@@ -3,7 +3,7 @@
 - 📫 Reach out to me at: <a href="wei.miao@kuleuven.be">wei.miao@kuleuven.be</a> or <a href="miaom971024@gmail.com">miaom971024@gmail.com</a>.
   
 ## Recent Paper
-1. Miao, W., Beyhum, J., Striaukas, J., & Van Keilegom, I. (2025). High-dimensional censored MIDAS logistic regression for corporate survival forecasting (R&R). [arXiv:2502.09740](https://arxiv.org/abs/2502.09740)
+1. Miao, W., Beyhum, J., Striaukas, J., & Van Keilegom, I. (2025). High-dimensional censored MIDAS logistic regression for corporate survival forecasting (Forthcoming at the Journal of Econometrics). [arXiv:2502.09740](https://arxiv.org/abs/2502.09740)
 2. Xu, H., Miao, W., Dhaene, G., & Beyhum, J. (2026). Bootstrap inference in nonlinear panel data models with interactive fixed effects. [arxiv:2604.26826](https://arxiv.org/pdf/2604.26826)
 <!---
 Wei-M-Wei/Wei-M-Wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
